@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "341525906497",
+    "project_id": "finest-3c9e1",
+    "storage_bucket": "finest-3c9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341525906497:android:421ab87ec4f80a48d772c0",
+        "android_client_info": {
+          "package_name": "com.example.fittrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7RnLVwkFq8xPJd7ktaH4rgy4R7GhN2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341525906497:android:d0a1260275464335d772c0",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7RnLVwkFq8xPJd7ktaH4rgy4R7GhN2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341525906497:android:db13fe2891cc5070d772c0",
+        "android_client_info": {
+          "package_name": "com.tarekalabd.stepstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7RnLVwkFq8xPJd7ktaH4rgy4R7GhN2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
